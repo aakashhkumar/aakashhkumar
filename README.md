@@ -72,7 +72,4 @@
 
 ###
 
-<div align="left">
-</div>
 
-###
